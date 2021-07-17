@@ -87,13 +87,13 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/Lunox-code?tab=repositories">
+<a href="https://github.com/jossiebk?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Lunox's favorite languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jossiebk&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       alt='Jossie's most used languages" />
 </a>
   
-<a href="https://github.com/Lunox-code">
+<a href="https://github.com/jossiebk">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=jossiebk&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
