@@ -14,7 +14,7 @@
   <img align="center" 
        alt="Jossie's Twitter" 
        width="30px" 
-       src="https://www.net-aware.org.uk/networks/twitter/" />
+       src="https://user-images.githubusercontent.com/21250059/126051260-7d949c26-f7a3-4ac8-ad72-c235ec57a2be.png" />
   </a>
   
 <a href="https://www.linkedin.com/in/jossiebk/">
