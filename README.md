@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hello World 
+<h1 align="center">Hi, i'm Jossie Castrillo 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
@@ -46,44 +46,36 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
+
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127783958-6482185b-0522-42e3-98af-7fa04c0622c6.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687569-95844780-0bc1-11eb-8bdb-93fb29d10602.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687639-117e8f80-0bc2-11eb-8aea-f236a8eca50b.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784868-3cbeaae2-8eb5-4e85-9898-7f5283462b6a.png"></code>
+  
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784052-ebb191d0-2a4b-430f-b51c-c08b24785f26.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784076-bc066ac1-4afa-4554-81dc-7d976394e868.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784101-8151ad0b-2921-43ba-b5f3-d1c189f29bce.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784137-66287324-8a62-4785-af00-953790a0c620.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784159-3e6984c7-ca67-4d93-9659-fe8bd10dba16.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784148-aee284f7-1a0c-4409-8ae0-47c7725d6e7b.png"></code>  
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784418-f5538f05-0968-488e-8926-1864a87673cf.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784388-4aad0502-bf59-4515-97a0-364fe490a924.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784437-16008811-d681-441e-9050-c45b44a9b173.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/21250059/127784484-fd9b17f2-66de-4464-af59-68c402ce8eef.png"></code>
+  
 
   </p>
-  
-&nbsp;  
 
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
-  
-  </p>
 &nbsp;
 
 <!-- GitHub Stats -->
